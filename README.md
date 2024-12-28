@@ -9,3 +9,9 @@ All rights reserved. No part of this repository, including the code, design, or 
 For inquiries or permissions, please contact Saira Nazir at sairanazir242@gmail.com.
 
 You can view the full custom license in the [LICENSE](LICENSE) file.
+
+## Project Screenshot
+
+Here’s a screenshot of the front page of the website:
+
+![Project Front Page Screenshot]()
