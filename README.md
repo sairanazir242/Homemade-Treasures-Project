@@ -15,3 +15,6 @@ You can view the full custom license in the [LICENSE](LICENSE) file.
 Here’s a screenshot of the front page of the website:
 
 ![Project Front Page Screenshot](https://github.com/sairanazir242/Homemade-Treasures-Project/blob/main/IMG_9628.PNG?raw=true)
+
+### Live Website:
+You can visit the live website at: [Visit the live website](https://homemadetreasure.kesug.com)
